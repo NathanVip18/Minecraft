@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "Inter";
+    src: url(../Font/Minecrafter.Alt.ttf);
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: "Inter";
+    src: url(../Font/Minecrafter.Reg.ttf);
+    font-weight: 700;
+}
